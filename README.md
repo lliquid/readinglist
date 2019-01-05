@@ -1,17 +1,15 @@
 # Reading List
 
+## Reading Now
 
-### Non Fiction
+#### Non Fiction
 
+- Algorithms to Live By
+- Design as Art, Bruno Murari 
 
+#### Fiction
 
-Design as Art by Bruno Murari 
-
-### Fiction
-
-Invisible Cities by Italo Valvino 
-
-### Math
+- Invisible Cities, Italo Valvino 
 
 
 ## Queue
@@ -22,6 +20,8 @@ Invisible Cities by Italo Valvino
 
 ## Finished
 
-### Non
+#### Non Fiction
 
-Flash Boys: A Wall Street Revolt by Michael Lewis 
+Flash Boys: A Wall Street Revolt, Michael Lewis
+
+
