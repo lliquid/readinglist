@@ -12,6 +12,10 @@
 - Invisible Cities, Italo Valvino 
 
 
+#### Papers
+
+- Vinyals, Oriol, Charles Blundell, Timothy Lillicrap, and Daan Wierstra. **"Matching networks for one shot learning."** In Advances in neural information processing systems, pp. 3630-3638. 2016
+
 ## Queue
 
 
