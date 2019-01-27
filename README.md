@@ -28,4 +28,7 @@
 
 Flash Boys: A Wall Street Revolt, Michael Lewis
 
+#### Papers
+
+Automatic Rule Extraction from Long Short Term Memory Networks. ICLR 2017
 
