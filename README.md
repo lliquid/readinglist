@@ -6,6 +6,7 @@
 
 - Algorithms to Live By
 - Design as Art, Bruno Murari 
+- 激荡三十年：中国企业1978-2008（纪念版）上册, 吴晓波
 
 #### Fiction
 
