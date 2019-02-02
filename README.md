@@ -27,9 +27,10 @@
 
 #### Non Fiction
 
-Flash Boys: A Wall Street Revolt, Michael Lewis
+- Flash Boys: A Wall Street Revolt, Michael Lewis
 
 #### Papers
 
-Automatic Rule Extraction from Long Short Term Memory Networks. ICLR 2017
+- Automatic Rule Extraction from Long Short Term Memory Networks. ICLR 2017
+- Towards a Rigorous Science of Interpretable Machine Learning
 
