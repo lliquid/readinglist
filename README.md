@@ -19,7 +19,7 @@
 
 - Leslie Lamport, **"Paxos Made Simple"**
 
-- Jeffrey Heer, **Agency plus Automation: Designing Artificial Intelligence into Interactive Systems**
+- Jeffrey Heer, **"Agency plus Automation: Designing Artificial Intelligence into Interactive Systems"**
 
 ## Queue
 
